@@ -3,9 +3,8 @@
 	height: 520px;
 	width:370px;
 	background-color: whitesmoke;
-/* 	box-shadow:100px; */
 	margin:auto;
-	box-sizing:border-box;
+/* 	box-sizing:border-box; */
 	text-align:center;
 	padding:40px 35px 0px 35px;
 }
